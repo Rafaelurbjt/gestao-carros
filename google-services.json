@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "231248848570",
+    "project_id": "gestao-portaria-bb2f9",
+    "storage_bucket": "gestao-portaria-bb2f9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231248848570:android:082e19f05e9ce022a48483",
+        "android_client_info": {
+          "package_name": "com.gestaocarros.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyX5qkSFfsnJTPELH2mKrQGXOxa_y3QdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
